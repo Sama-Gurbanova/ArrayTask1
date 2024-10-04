@@ -22,12 +22,12 @@ namespace ArrayTask1
             //TASK 5-Verilmiş elementin array-in daxilində yer alıb-almaması məlumatının əldə edilməsi.
 
             //int[] array = { 15, 48, 23, 90, 67, 88, 32 };
-            //int elemenet = 88;
+            //int element = 88;
             //bool result = false;
 
             //for (int i = 0; i < array.Length; i++)
             //{
-            //    if (array[i] == elemenet)
+            //    if (array[i] == element)
             //    {
             //        result = true;
             //        break;
